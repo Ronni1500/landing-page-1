@@ -11,7 +11,7 @@
 	"devDependencies": {
 		"bower": "^1.8.8",
 		"browser-sync": "^2.11.1",
-		"gulp": "^3.9.1",
+		"gulp": "^4.0.2",
 		"gulp-autoprefixer": "^3.1.0",
 		"gulp-concat": "^2.6.0",
 		"gulp-cssnano": "^2.1.0",
@@ -22,7 +22,7 @@
 		"gulp-imagemin": "^2.4.0",
 		"gulp-include": "^2.3.0",
 		"gulp-jsvalidate": "^4.0.0",
-		"gulp-minify": "0.0.11",
+		"gulp-minify": "3.1.0",
 		"gulp-order": "^1.1.1",
 		"gulp-plumber": "^1.2.1",
 		"gulp-sass": "^3.0.0",
